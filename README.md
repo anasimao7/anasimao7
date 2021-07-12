@@ -1,4 +1,4 @@
-### Ana Simão 👋🏻
+# Ana Simão 👋🏻
 
 Olá, sou a Ana! Comecei a estudar programação em 2017. Durante o meu percurso académico aprendi o básico do desenvolvimento web, como criar aplicações android através do Xamarin e como desenvolver jogos através da engine Unity.
 
